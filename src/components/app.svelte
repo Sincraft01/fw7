@@ -5,7 +5,7 @@
     <View>
       <Page>
         <Navbar title="Left Panel"/>
-        <Block>Left panel content goes here</Block>
+        <Block>BlackMail</Block>
       </Page>
     </View>
   </Panel>
