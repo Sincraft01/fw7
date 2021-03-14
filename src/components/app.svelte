@@ -62,7 +62,7 @@
   <LoginScreen id="my-login-screen">
     <View>
       <Page loginScreen>
-        <LoginScreenTitle>Login</LoginScreenTitle>
+        <LoginScreenTitle>BlackMail Login</LoginScreenTitle>
         <List form>
           <ListInput
             type="text"

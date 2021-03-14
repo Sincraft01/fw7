@@ -4,7 +4,7 @@
     <NavLeft>
       <Link iconIos="f7:menu" iconAurora="f7:menu" iconMd="material:menu" panelOpen="left" />
     </NavLeft>
-    <NavTitle sliding>fw</NavTitle>
+    <NavTitle sliding>BlackMail</NavTitle>
     <NavRight>
       <Link iconIos="f7:menu" iconAurora="f7:menu" iconMd="material:menu" panelOpen="right" />
     </NavRight>
