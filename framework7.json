@@ -1,0 +1,26 @@
+{
+  "cwd": "/home/dev/jsProjects/fw7",
+  "type": [
+    "web"
+  ],
+  "name": "fw",
+  "framework": "svelte",
+  "template": "tabs",
+  "cssPreProcessor": false,
+  "bundler": "webpack",
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  },
+  "theming": {
+    "customColor": true,
+    "color": "#36b389",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
